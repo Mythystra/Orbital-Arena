@@ -1,0 +1,71 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 760 (ID=0x1187)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\James\Desktop\Final\Team Project\Team Project\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\James\Desktop\Final\Team Project\Team Project\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\James\Desktop\Final\Team Project\Team Project\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\James\Desktop\Final\Team Project\Team Project\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\James\Desktop\Final\Team Project\Team Project\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\James\Desktop\Final\Team Project\Team Project\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\James\Desktop\Final\Team Project\Team Project\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\James\Desktop\Final\Team Project\Team Project\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.464 seconds
+Platform assembly: C:\Users\James\Desktop\Final\Team Project\Team Project\Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\James\Desktop\Final\Team Project\Team Project\Game_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 175.508820 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.067436 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 380.
+Total: 3.206795 ms (FindLiveObjects: 2.539240 ms CreateObjectMapping: 0.053132 ms MarkObjects: 0.578588 ms  DeleteObjects: 0.033362 ms)
+
+NotImplementedException: The requested feature is not implemented.
+  at PlayerController.TakeDamage (Int32 damage, UnityEngine.GameObject instigator) [0x00000] in <filename unknown>:0 
+  at SimpleProjectile.OnCollideTakeDamage (UnityEngine.Collider2D other, ITakeDamage takeDamage) [0x00000] in <filename unknown>:0 
+  at Projectile.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NotImplementedException: The requested feature is not implemented.
+  at PlayerController.TakeDamage (Int32 damage, UnityEngine.GameObject instigator) [0x00000] in <filename unknown>:0 
+  at SimpleProjectile.OnCollideTakeDamage (UnityEngine.Collider2D other, ITakeDamage takeDamage) [0x00000] in <filename unknown>:0 
+  at Projectile.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NotImplementedException: The requested feature is not implemented.
+  at PlayerController.TakeDamage (Int32 damage, UnityEngine.GameObject instigator) [0x00000] in <filename unknown>:0 
+  at SimpleProjectile.OnCollideTakeDamage (UnityEngine.Collider2D other, ITakeDamage takeDamage) [0x00000] in <filename unknown>:0 
+  at Projectile.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NotImplementedException: The requested feature is not implemented.
+  at PlayerController.TakeDamage (Int32 damage, UnityEngine.GameObject instigator) [0x00000] in <filename unknown>:0 
+  at SimpleProjectile.OnCollideTakeDamage (UnityEngine.Collider2D other, ITakeDamage takeDamage) [0x00000] in <filename unknown>:0 
+  at Projectile.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NotImplementedException: The requested feature is not implemented.
+  at PlayerController.TakeDamage (Int32 damage, UnityEngine.GameObject instigator) [0x00000] in <filename unknown>:0 
+  at SimpleProjectile.OnCollideTakeDamage (UnityEngine.Collider2D other, ITakeDamage takeDamage) [0x00000] in <filename unknown>:0 
+  at Projectile.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Player Respawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1044 -> priority: 1 
